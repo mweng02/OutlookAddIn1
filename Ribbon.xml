@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI onLoad="Ribbon_Load" xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+    <ribbon>
+        <tabs>
+            <tab idMso="TabAddIns" label="CBRE GC VAS">
+                <group id="group3" label="Menu">
+                    <button id="button2" label="Working In Progress" showImage="false" />
+                </group>
+                <group id="group2" label="Admin">
+                    <button id="btn_source" onAction="btn_source_Click" label="Load Admin Source" showImage="false" />
+                </group>
+                <group id="group1" label="Save Emails" visible="false">
+                    <button id="btn_ARAApproval" onAction="btn_ARAApproval_Click" label="ARA Approval" showImage="false" />
+                    <button id="btn_LegalApproval" onAction="btn_LegalApproval_Click" label="Legal Approval" showImage="false" />
+                    <button id="btn_LOE" onAction="btn_LOE_Click" label="LOE" showImage="false" />
+                    <button id="button1" onAction="button1_Click" label="High Risk Approval" showImage="false" />
+                    <button id="btn_POD" onAction="btn_POD_Click" label="POD" showImage="false" />
+                </group>
+            </tab>
+        </tabs>
+    </ribbon>
+</customUI>

@@ -1,0 +1,16 @@
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\OutlookAddIn.dll
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\OutlookAddIn.pdb
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\OutlookAddIn.dll.manifest
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\OutlookAddIn.vsto
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn1.Ribbon_.resources
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.csproj.GenerateResource.cache
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.csproj.CoreCompileInputs.cache
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.csproj.CopyComplete
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.dll
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.pdb
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\debug\OutlookAddIn.dll
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\debug\OutlookAddIn.pdb
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\debug\OutlookAddIn.dll.manifest
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\debug\OutlookAddIn.vsto
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn.csproj.AssemblyReference.cache

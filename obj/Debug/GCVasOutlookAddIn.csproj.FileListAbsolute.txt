@@ -1,0 +1,11 @@
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\GCVASOutlookAddIn.dll
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\GCVASOutlookAddIn.pdb
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\GCVASOutlookAddIn.dll.manifest
+C:\Users\kloh1\CBRE, Inc\VAS models - Documents\General\Tools\ChinaTools\Develop\Outlook\GCVASOutlookAddIn.vsto
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn1.Properties.Resources.resources
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\OutlookAddIn1.Ribbon_.resources
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\GCVasOutlookAddIn.csproj.GenerateResource.cache
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\GCVasOutlookAddIn.csproj.CoreCompileInputs.cache
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\GCVasOutlookAddIn.csproj.CopyComplete
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\GCVASOutlookAddIn.dll
+C:\Users\kloh1\source\repos\OutlookAddIn1\obj\Debug\GCVASOutlookAddIn.pdb
